@@ -19,5 +19,5 @@ This a capstone project made during the first batch of Bangkit Academy 2024
 
 ## Navigation
 - ### [&nbsp;&nbsp;Machine Learning](https://github.com/ivanfatoni10/Project-Capstone-SkinEnthusiat)
-- ### [&nbsp;&nbsp;Android Mobile Development]()
+- ### [&nbsp;&nbsp;Android Mobile Development](https://github.com/barbiemoody/skinEnthusiast)
 - ### [&nbsp;&nbsp;Cloud Computing](https://github.com/24silver/webservice)
