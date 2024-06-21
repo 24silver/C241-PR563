@@ -1,4 +1,5 @@
 # SkinEnthusiast
+![alt text](https://github.com/24silver/C241-PR563/blob/main/skin%20(2).png)
 
 This a capstone project made during the first batch of Bangkit Academy 2024
 
